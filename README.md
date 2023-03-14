@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @jacob-kevin
-- 👀 I’m interested in making friends
-- 🌱 I’m currently learning the lesson of life
-- 💞️ I’m looking to collaborate on singing and music
-- 📫 How to reach me @maddo_kevin on Instagram
+hey
