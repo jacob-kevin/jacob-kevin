@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/20/2b/cf/202bcf6e992948e8d222df61864a5427.jpg" alt="MasterHead">
-</p>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJpb2Y5MjR4bnV2aXpmMXNybzh6dXZvNjh4aXo5bzRsanhhdmE4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V8TYPa0WJIcsYz4xDd/giphy.gif" width="1584" height="256"> </p>
 <h1 align="center">Hi 👋, know about me, I'm Jacob Kevin</h1>
 <h3 align="center">Highly motivated Computer Science student with a strong interest in the field of data science, artificial intelligence and machine learning.</h3>
-<img align="right" alt="Data Scientist" width="400" src="https://dribbble.com/shots/6078167-Artificial-Intelligence/attachments/11239218?mode=media">
+<img align="right" alt="Data Scientist" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-kevin&label=Profile%20views&color=0e75b6&style=flat" alt="jacob-kevin" /> </p>
 
 - 🔭 I’m currently working on [Cognitive AI Chat Companion](Cognitive AI Chat Companion)
