@@ -4,15 +4,15 @@
 <img align="right" alt="Data Scientist" width="400" src="https://cdn.dribbble.com/users/3250190/screenshots/6078167/media/0a70c8010d8e930d5bc0c498d14dc680.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob-kevin&label=Profile%20views&color=0e75b6&style=flat" alt="jacob-kevin" /> </p>
 
-- 🔭 I’m currently working on [Cognitive AI Chat Companion](Cognitive AI Chat Companion)
+- 🔭 I’m currently working on [Multiclass Breast Cancer Analysis Using Deep Learning and Ensemble Learning Techniques](Multiclass Breast Cancer Analysis Using Deep Learning and Ensemble Learning Techniques)
 
-- 🌱 I’m currently learning **NLP, Hugging face and Computer Vision**
+- 🌱 I’m currently learning **CNN, Machine Learning and Computer Vision**
 
 - 👯 I’m looking to collaborate on **Projects related to AIML**
 
-- 💬 Ask me about **Python, C++, JAVA, LINUX, DBMS**
+- 💬 Ask me about **Python, C++, LINUX, DBMS**
 
-- 📫 How to reach me **ktkmu6.kevin@gmail.com**
+- 📫 How to reach me **jacobkevin.1704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
